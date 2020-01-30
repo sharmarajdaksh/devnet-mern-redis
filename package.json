@@ -24,7 +24,7 @@
 		"gravatar": "^1.8.0",
 		"ioredis": "^4.14.1",
 		"jsonwebtoken": "^8.5.1",
-		"mongoose": "^5.5.1",
+		"mongoose": "^5.7.5",
 		"raccoon": "^0.2.8",
 		"redis": "^2.8.0",
 		"redis-server": "^1.2.2",
