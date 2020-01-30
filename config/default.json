@@ -1,0 +1,6 @@
+{
+  "mongoURI": "mongodb://kamal:1ccetisbest!@ds229068.mlab.com:29068/devnet",
+  "jwtSecret": "secret",
+  "githubClientId": "",
+  "githubSecret": ""
+}

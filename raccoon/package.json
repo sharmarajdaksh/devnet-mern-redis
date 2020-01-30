@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      "raccoon@0.2.8",
+      "/mnt/B422BBBC22BB8242/Learning/CodingAndDevelopment/Projects/WebProjects/DevNet-server"
+    ]
+  ],
+  "_from": "raccoon@0.2.8",
+  "_id": "raccoon@0.2.8",
+  "_inBundle": false,
+  "_integrity": "sha1-gKcGlDWTliBDZv031RR72gn1ayk=",
+  "_location": "/raccoon",
+  "_phantomChildren": {
+    "double-ended-queue": "2.1.0-0",
+    "lodash": "4.17.11",
+    "redis-commands": "1.5.0",
+    "redis-parser": "2.6.0"
+  },
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "raccoon@0.2.8",
+    "name": "raccoon",
+    "escapedName": "raccoon",
+    "rawSpec": "0.2.8",
+    "saveSpec": null,
+    "fetchSpec": "0.2.8"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/raccoon/-/raccoon-0.2.8.tgz",
+  "_spec": "0.2.8",
+  "_where": "/mnt/B422BBBC22BB8242/Learning/CodingAndDevelopment/Projects/WebProjects/DevNet-server",
+  "author": {
+    "name": "Guy Morita"
+  },
+  "bugs": {
+    "url": "https://github.com/guymorita/recommendationRaccoon/issues"
+  },
+  "dependencies": {
+    "async": "~2.1.x",
+    "bluebird": "~3.4.x",
+    "redis": "~2.6.x",
+    "underscore": "~1.8.x"
+  },
+  "description": "A Collaborative Filtering Recommendation Engine for Node.js utilizing Redis",
+  "devDependencies": {
+    "chai": "~3.5.0",
+    "grunt": "^1.0.1",
+    "grunt-contrib-jshint": "^1.1.0",
+    "grunt-contrib-watch": "^1.0.0",
+    "grunt-mocha-cov": "^0.4.0",
+    "mocha": "~3.2.0"
+  },
+  "engines": {
+    "node": ">= 6.0.0"
+  },
+  "homepage": "https://github.com/guymorita/recommendationRaccoon#readme",
+  "keywords": [
+    "recommend",
+    "recommended",
+    "recommendation",
+    "engine",
+    "collaborative",
+    "filtering",
+    "middleware",
+    "redis"
+  ],
+  "license": "MIT",
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/guymorita/recommendationRaccoon/LICENSE"
+    }
+  ],
+  "main": "./index.js",
+  "name": "raccoon",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guymorita/recommendationRaccoon.git"
+  },
+  "version": "0.2.8"
+}
