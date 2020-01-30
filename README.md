@@ -1,7 +1,7 @@
 # DevNet
 
 ## What is this?
-Just another 'blog-post' MERN stack app that I developed with some of my friends. The app features all important features that are expected from a modern-day webapp, such as responsive design, user authentications, automatic login on reload, and even a post recommendation system based on Machine Learning.
+Just another 'blog-post' MERN stack app that I developed with my friends [kamal-aujla](https://github.com/kamal-aujla) and [charanjit-singh22](https://github.com/charanjit-singh22). The app features all important features that are expected from a modern-day webapp, such as responsive design, user authentications, automatic login on reload, and even a post recommendation system based on Machine Learning.
 
 ## How was it made?
 The base project was a project that I coded along with a Udemy course by Brad Traversy, named Full MERN Stack from Start to Finish (or very close). I understand that that is a bit of cheating but that's beside the point. I did not stop at what the course taught, and tried to upgrade the project by a significant extent.
