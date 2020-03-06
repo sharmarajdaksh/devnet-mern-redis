@@ -16,8 +16,8 @@ Configuring Raccoon and Redis to work on Heroku was not exactly easy, but I made
 ## Can you check it out?
 For a time, the website/app was hosted at the link [devnetserver.herokuapp.com](devnetserver.herokuapp.com). Is it still up? You can check.
 
-## Work of warning.
-TO store the user authorization and posts data, we used a platform called [mLab](https://mlab.com/) which basically allowed you to make CRUD requests via their api and stored the data to their service, all for free. MLab supposedly was bought by another company and they are only going to support current MongoDBs for another year or so. So if you are checking this repo later, the functionality of the app is most likely broken. You could, if you wanted, set up a MongoDB backend and configure the app to work with it if you really wanted this to work.
+## Word of warning.
+To store the user authorization and posts data, we used a platform called [mLab](https://mlab.com/) which basically allowed you to make CRUD requests via their api and stored the data to their service, all for free. MLab supposedly was bought by another company and they are only going to support current MongoDBs for another year or so. So if you are checking this repo later, the functionality of the app is most likely broken. You could, if you wanted, set up a MongoDB backend and configure the app to work with it if you really wanted this to work.
 
 ## Usage Instructions (for local setup)
 
